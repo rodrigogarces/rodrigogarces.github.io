@@ -1,2 +1,2 @@
-# rodrigogarces.githubio.com
+# rodrigogarces.github.io
 Test github pages
